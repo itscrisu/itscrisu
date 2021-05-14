@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itscrisu" target="_blank"><img src="https://img.shields.io/twitter/follow/itscrisu?logo=twitter&style=for-the-badge" alt="itscrisu" /></a> </p>
 
-- 🔭 I’m currently working on a TradeHelm challenge
+- 🔭 I’m currently working on a Twitter Clone!
 
 - 🌱 I’m currently learning **TypeScript**
 
