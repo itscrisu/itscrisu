@@ -1,15 +1,20 @@
-<h1 align="center">Hi 🐈, I'm Cristian!</h1>
+<h1 align="center">Hello there! 🐈 I'm Cristian</h1>
 <h3 align="center">A frontend developer from Argentina</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itscrisu&label=Profile%20views&color=ee5253&style=flat" alt="itscrisu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itscrisu" target="_blank"><img src="https://img.shields.io/twitter/follow/itscrisu?logo=twitter&style=for-the-badge" alt="itscrisu" /></a> </p>
 
-- 🔭 I’m currently working on a Twitter Clone!
+- 🔭 I’m currently working on **a Todoist clone!**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js and Typescript**
 
-- 📫 Email me at **cristian.eng3@gmail.com**
+- 📝 I enjoy poetry, if you too, check out my stuff here (Spanish): [https://collectednotes.com/itscrisu](https://collectednotes.com/itscrisu)
+
+- 📫 Contact me: **cristian.eng3@gmail.com**
+
+- ❓ Random **I love cats, coffee and cooking.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
