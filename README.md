@@ -15,7 +15,8 @@
 
 - ❓ Random **I love cats, coffee and cooking.**
 
-
+<h3 align="left">CodeWars Profile</h3>
+<a href="https://www.codewars.com/users/itscrisu/badges/large"><img src="https://www.codewars.com/users/itscrisu/badges/large" alt="codewarsprofile" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itscrisu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itscrisu" height="35" width="35" /></a>
