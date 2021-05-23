@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/itscrisu" target="_blank"><img src="https://img.shields.io/twitter/follow/itscrisu?logo=twitter&style=for-the-badge" alt="itscrisu" /></a> </p>
 
-- 🔭 I’m currently working on **a Todoist clone!**
+- 🔭 I’m currently working at [Qubits](https://www.qubitsgroup.com/) as a Fullstack Developer
+ 
+- 🌱 I’m working with **Vue.js and .NET Core**
 
-- 🌱 I’m currently learning **Next.js and Typescript**
-
-- 📝 I enjoy poetry, if you too, check out my stuff here (Spanish): [https://collectednotes.com/itscrisu](https://collectednotes.com/itscrisu)
+- 📝 I really enjoy poetry, if you too, check out my stuff here (Spanish): [https://collectednotes.com/itscrisu](https://collectednotes.com/itscrisu)
 
 - 📫 Contact me: **cristian.eng3@gmail.com**
 
-- ❓ Random **I love cats, coffee and cooking.**
+- ❓ **I love cats, coffee and cooking.**
 
 <h3 align="left">CodeWars Profile</h3>
 <a href="https://www.codewars.com/users/itscrisu/"><img src="https://www.codewars.com/users/itscrisu/badges/large" alt="codewarsprofile" /></a>
