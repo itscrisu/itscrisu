@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 🐈 I'm Cristian</h1>
-<h3 align="center">A frontend developer from Argentina</h3>
+<h3 align="center">A React developer from Argentina</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itscrisu&label=Profile%20views&color=ee5253&style=flat" alt="itscrisu" /> </p>
 
