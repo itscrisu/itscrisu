@@ -1,36 +1,22 @@
-<h1 align="center">Hello there! 🐈 I'm Cristian</h1>
-<h3 align="center">A React developer from Argentina</h3>
+<h1 align="center">Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> I'm Cristian</h1>
+<h3 align="center">A Front-end developer from Argentina</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itscrisu&label=Profile%20views&color=ee5253&style=flat" alt="itscrisu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itscrisu" target="_blank"><img src="https://img.shields.io/twitter/follow/itscrisu?logo=twitter&style=for-the-badge" alt="itscrisu" /></a> </p>
+<img src="https://user-images.githubusercontent.com/57419590/121792023-80374100-cbc6-11eb-9fcb-63049d65bca9.png" />  I'm currently working @ [Qubits](https://www.qubitsgroup.com/) with [Vue.js](https://vuejs.org/) and [GraphQL](https://graphql.org/)
 
-- 📝 I really enjoy poetry, if you too, check out my stuff here (Spanish): [https://collectednotes.com/itscrisu](https://collectednotes.com/itscrisu)
+<img src="https://user-images.githubusercontent.com/57419590/121792342-f7220900-cbc9-11eb-83d1-9059cb1261bb.png" /> I enjoy writing poetry and some other stuff related to tech. Check my stuff [here](https://collectednotes.com/itscrisu) (Spanish)
 
-- 📫 Contact me: **cristian.eng3@gmail.com**
+<img src="https://user-images.githubusercontent.com/57419590/121792352-0e60f680-cbca-11eb-8140-b225af9294ee.png" /> I have 2 cats named Frodo and Sam, I enjoy learning new stuff, and I love cooking.
 
-- ❓ **I love cats, coffee and cooking.**
+<br>
 
-<h3 align="left">CodeWars Profile</h3>
-<a href="https://www.codewars.com/users/itscrisu/"><img src="https://www.codewars.com/users/itscrisu/badges/large" alt="codewarsprofile" /></a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itscrisu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itscrisu" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/cristiandominguezl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itscrisu" height="35" width="45" /></a>
+<p align="center">
+<a href="https://twitter.com/itscrisu"  target="_blank"><img src="https://user-images.githubusercontent.com/57419590/121791667-cab6be80-cbc2-11eb-8a11-f9c56187d1fb.png" alt="Twitter" /></a>
+<a href="https://linkedin.com/in/cristiandominguezl/"  target="_blank"><img src="https://user-images.githubusercontent.com/57419590/121791656-a9ee6900-cbc2-11eb-8e8a-6b3f7ab8f70a.png" alt="Linkedin" /> </a>
+<a href="mailto:cristian.eng3@gmail.com"><img src="https://user-images.githubusercontent.com/57419590/121791697-110c1d80-cbc3-11eb-8256-fd2de12eded4.png" alt="GMail" /> </a>
+<a href="https://open.spotify.com/user/crissheepy?si=be34a6b9307a4fd6"><img src="https://user-images.githubusercontent.com/57419590/121792400-a6f77680-cbca-11eb-80a3-069abb53abf7.png" alt="Spotify" /> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
 
