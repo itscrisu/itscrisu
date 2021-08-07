@@ -5,9 +5,9 @@
 
 <img src="https://user-images.githubusercontent.com/57419590/121792023-80374100-cbc6-11eb-9fcb-63049d65bca9.png" />  I'm currently working @ [Qubits](https://www.qubitsgroup.com/) with [Vue.js](https://vuejs.org/) and [GraphQL](https://graphql.org/)
 
-<img src="https://user-images.githubusercontent.com/57419590/121792342-f7220900-cbc9-11eb-83d1-9059cb1261bb.png" /> I enjoy writing poetry and some other stuff related to tech. Check my stuff [here](https://collectednotes.com/itscrisu) (Spanish)
+<img src="https://user-images.githubusercontent.com/57419590/121792342-f7220900-cbc9-11eb-83d1-9059cb1261bb.png" /> I enjoy writing and reading all sorts of things, so if you got any suggestions on wich book should I read next, contact me!  
 
-<img src="https://user-images.githubusercontent.com/57419590/121792352-0e60f680-cbca-11eb-8140-b225af9294ee.png" /> I have 2 cats named Frodo and Sam, I enjoy learning new stuff, and I love cooking.
+<img src="https://user-images.githubusercontent.com/57419590/121792352-0e60f680-cbca-11eb-8140-b225af9294ee.png" /> I have 2 cats named Frodo and Sam (obviously a LOTR fan here), I enjoy learning new stuff all the time, and I really enjoy cooking :).
 
 <br>
 
