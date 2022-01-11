@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itscrisu&label=Profile%20views&color=ee5253&style=flat" alt="itscrisu" /> </p>
 
-<img src="https://user-images.githubusercontent.com/57419590/121792023-80374100-cbc6-11eb-9fcb-63049d65bca9.png" />  I'm currently working @ [Qubits](https://www.qubitsgroup.com/) with [Vue.js](https://vuejs.org/) and [GraphQL](https://graphql.org/)
+<img src="https://user-images.githubusercontent.com/57419590/121792023-80374100-cbc6-11eb-9fcb-63049d65bca9.png" />  I'm currently working as a Front-end Developer @ [AlphaFintech](https://alphafin.tech/) with [Vue.js](https://vuejs.org/) and [GraphQL](https://graphql.org/)
 
 <img src="https://user-images.githubusercontent.com/57419590/121792342-f7220900-cbc9-11eb-83d1-9059cb1261bb.png" /> I enjoy writing and reading all sorts of things, so if you got any suggestions on wich book should I read next, contact me!  
 
