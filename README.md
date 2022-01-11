@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/57419590/121792342-f7220900-cbc9-11eb-83d1-9059cb1261bb.png" /> I enjoy writing and reading all sorts of things, so if you got any suggestions on wich book should I read next, contact me!  
 
-<img src="https://user-images.githubusercontent.com/57419590/121792352-0e60f680-cbca-11eb-8140-b225af9294ee.png" /> I have 2 cats named Frodo and Sam (obviously a LOTR fan here), I enjoy learning new stuff all the time, and I really enjoy cooking :).
+<img src="https://user-images.githubusercontent.com/57419590/121792352-0e60f680-cbca-11eb-8140-b225af9294ee.png" /> I have 2 cats named Frodo and Sam (obviously a LOTR fan here), I enjoy learning new stuff all the time, playing piano sometimes and I'll be always cooking something fancy.
 
 <br>
 
