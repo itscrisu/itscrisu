@@ -18,7 +18,7 @@
 - 🔭 I’m currently working @ [PPRO](https://www.ppro.com/)
 - 🌱 I’m currently working with [Vue.js](https://vuejs.org/).
 - 📚 I’m always learning something new - Currently learning [NextJs](https://nextjs.org/) and [pottery](https://www.instagram.com/casiopea.ceramica/)
-- 💬 Creating content (something like that) on [Twitter](https://twitter/itscrisu) 
+- 💬 Creating content (something like that) on [Twitter](https://twitter.com/itscrisu) 
 - 🏊‍♂️ I love swimming!
 
 ## Languages and Tools
