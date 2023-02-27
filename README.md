@@ -16,14 +16,15 @@
 ## What i'm up to
 
 - 🔭 I’m currently working @ [PPRO](https://www.ppro.com/)
-- 🌱 I’m currently working with [Vue.js](https://vuejs.org/).
-- 📚 I’m always learning something new - Currently learning [NextJs](https://nextjs.org/) and [pottery](https://www.instagram.com/casiopea.ceramica/)
-- 💬 Creating content (something like that) on [Twitter](https://twitter.com/itscrisu) 
-- 🏊‍♂️ I love swimming!
+- 🌱 I’m currently working with [React](https://reactjs.org).
+- 📚 I’m always learning something new - Currently learning [TypeScript]((https://www.typescriptlang.org/)) and taking piano lessons
+- 💬 You can contact me on [Twitter](https://twitter.com/itscrisu) if you like! 
+- 🏋🏻‍♂️ I'm currently doing CrossFit and 🏊🏻‍♂️ swimming whenever I can 💖
 
 ## Languages and Tools
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
