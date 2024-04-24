@@ -13,8 +13,8 @@
 ## What i'm up to
 
 - 🚀 Currently working @ [PPRO](https://www.ppro.com/)
-- 👨🏻‍💻 Currently working with [React](https://reactjs.org).
-- 📚 Always learning something new - Currently learning infrastructure related technologies and taking pottery lessons
+- 👨🏻‍💻 Currently working with [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/) .
+- 📚 Always learning something new - Currently studying Digital art and Animation at [UBP](https://www.ubp.edu.ar/) 
 - 🦜 Contact me on [Twitter](https://twitter.com/itscrisu) [Mail](mailto:cristian.eng3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/cristiandominguezl/)
 - 🏋🏻‍♂️ Currently doing CrossFit and 🏃‍♂️ running 
 
