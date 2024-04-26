@@ -5,7 +5,7 @@
 <img align="left" alt="Cristian Dominguez Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.linkedin.com/in/cristiandominguezl/">
-<img align="left" alt="Cristian Dominguz LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Cristian Dominguz LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
 <br />
@@ -14,7 +14,7 @@
 
 - 🚀 Currently working @ [PPRO](https://www.ppro.com/)
 - 👨🏻‍💻 Currently working with [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/) .
-- 📚 Always learning something new - Currently studying Digital art and Animation at [UBP](https://www.ubp.edu.ar/) 
+- 📚 Always learning something new - Currently back on studying at [FaMAF](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/) (Computer Science ♥)
 - 🦜 Contact me on [Twitter](https://twitter.com/itscrisu) [Mail](mailto:cristian.eng3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/cristiandominguezl/)
 - 🏋🏻‍♂️ Currently doing CrossFit and 🏃‍♂️ running 
 
