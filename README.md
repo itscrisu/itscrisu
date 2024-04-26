@@ -15,7 +15,7 @@
 
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30" /> Currently working @ [PPRO](https://www.ppro.com/) 
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514890/9036/stonks.png?1643514890" width="30" /> Currently working with [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), some [Terraform](https://www.terraform.io/) and [AWS](https://aws.amazon.com/) here and there too cause I'm a hip guy u knw? 
-- <img src="https://emojis.slackmojis.com/emojis/images/1642170973/51205/paticksmart.png?1642170973" width="30" /> Currently back on studying at [FaMAF](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/) some Computer Science cool stuff
+- <img src="https://emojis.slackmojis.com/emojis/images/1642170973/51205/paticksmart.png?1642170973" width="30" /> Currently back on studying at [FaMAF](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/) some Computer Science
 - <img src="https://emojis.slackmojis.com/emojis/images/1706826745/88620/eyespatq.png?1706826745" width="30" /> You can send me some DM on [Twitter](https://twitter.com/itscrisu) ~jokes on you I never read them~ [Mail](mailto:cristian.eng3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/cristiandominguezl/)
 - <img src="https://emojis.slackmojis.com/emojis/images/1694036005/68496/buff.png?1694036005" width="30" /> **How did you know I do CrossFit?** <sub>First rule of CrossFit is: you tell everyone you know that you do CrossFit. Otherwise how can they tell, right? </sub>
 
