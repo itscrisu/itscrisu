@@ -6,7 +6,7 @@ Semi senior Software Developer with 4+ years of experience, currently exploring 
 ## Professional Experience
 - 🚀 Semisenior Software Developer at PPRO
 - 💻 Tech Stack: React, TypeScript, Terraform, AWS
-- 📊 Currently studying Supply Chain Management & Logistics ([Blas Pascal](https://www.ubp.edu.ar/carreras/lic-en-operaciones-y-logistica/))
+- 📊 Currently studying B.S. in Operations and Logistics ([Blas Pascal](https://www.ubp.edu.ar/carreras/lic-en-operaciones-y-logistica/))
 
 ## Technical Skills
 ### Development
@@ -27,7 +27,7 @@ Semi senior Software Developer with 4+ years of experience, currently exploring 
 
 ## Education
 - 🎓 B.S. in Computer Science - FaMAF (1 year)
-- 📖 Supply Chain Management (In Progress)
+- 📖 B.S. in Operations and Logistics (In Progress)
 
 ## Beyond Tech
 - 🏋️ CrossFit Enthusiast
