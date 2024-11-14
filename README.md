@@ -1,7 +1,7 @@
 # Hi, I'm Cristian 👋
 
 ## About Me
-Semi senior Software Developer with 4+ years of experience, currently exploring the intersection of technology and logistics. Passionate about building efficient systems and optimizing processes.
+Semi senior Software Developer with 3+ years of experience, currently exploring the intersection of technology and logistics. Passionate about building efficient systems and optimizing processes.
 
 ## Professional Experience
 - 🚀 Semisenior Software Developer at PPRO
