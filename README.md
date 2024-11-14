@@ -1,43 +1,44 @@
-<div align="center">
-  
-#  Whats up folx? <img src="https://emojis.slackmojis.com/emojis/images/1712916265/92029/pedro.gif?1712916265" width="42" />
-### ~Cutest baby on earth~ ~puppy cat~ just some guy here having fun with [React](https://reactjs.org) for a living 
-</div>
+# Hi, I'm Cristian 👋
 
-<br />
+## About Me
+Semi senior Software Developer with 4+ years of experience, currently exploring the intersection of technology and logistics. Passionate about building efficient systems and optimizing processes.
 
-<div align="center">
+## Professional Experience
+- 🚀 Semisenior Software Developer at PPRO
+- 💻 Tech Stack: React, TypeScript, Terraform, AWS
+- 📊 Currently studying Supply Chain Management & Logistics ([Blas Pascal](https://www.ubp.edu.ar/carreras/lic-en-operaciones-y-logistica/))
 
+## Technical Skills
+### Development
+- Frontend: React, TypeScript, JavaScript
+- Infrastructure: AWS, Terraform
+- Version Control: Git
 
-## What i'm up to
+### Process & Project Management
+- Agile Methodologies
+- Cross-functional Team Collaboration
+- Systems Optimization
 
-</div>
+## Current Focus
+- 🎭 Interactive Web Experiences
+- 🌐 E-commerce Operations
+- 📈 Optimization Algorithms
+- 🔮 Experimental Interfaces (learning)
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30" /> Currently working @ [PPRO](https://www.ppro.com/) 
-- <img src="https://emojis.slackmojis.com/emojis/images/1643514890/9036/stonks.png?1643514890" width="30" /> Currently working with [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), some [Terraform](https://www.terraform.io/) and [AWS](https://aws.amazon.com/) here and there too cause I'm a hip guy u knw? 
-- <img src="https://emojis.slackmojis.com/emojis/images/1642170973/51205/paticksmart.png?1642170973" width="30" /> Plot twist: I actually do my homework (well, sometimes at least) [FaMAF](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/) B.S. in Computer Science
-- <img src="https://emojis.slackmojis.com/emojis/images/1706826745/88620/eyespatq.png?1706826745" width="30" /> You can send me some DM on [Twitter](https://twitter.com/itscrisu) ~jokes on you I never read them~ [Mail](mailto:cristian.eng3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/cristiandominguezl/)
-- <img src="https://emojis.slackmojis.com/emojis/images/1694036005/68496/buff.png?1694036005" width="30" /> **How did you know I do CrossFit?** <sub>First rule of CrossFit is: you tell everyone you know that you do CrossFit. Otherwise how can they tell, right? </sub>
+## Education
+- 🎓 B.S. in Computer Science - FaMAF (1 year)
+- 📖 Supply Chain Management (In Progress)
 
-<div align="center">
+## Beyond Tech
+- 🏋️ CrossFit Enthusiast
+- 💡 Continuous Learner
+- 🎨 Digital Art Enthusiast
+- 🤝 Team Building & Collaboration
+- 🌉 Bridge Builder between Technical & Non-Technical Teams
+- 🎯 Problem Solving through Multiple Perspectives
 
-## Some cute icons to show you what I know 
+## Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristiandominguezl/)
 
-
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
-</div>
-
-<br/>
-
-
-<div align="right">
-  
-![](https://komarev.com/ghpvc/?username=itscrisu&style=plastic&abbreviated=true&color=0000ff&label=Is+this+useful?+I+leave+it+up+to+you+to+decide+)
-
-</div>
+---
+*"Building bridges between technology and business operations"*
