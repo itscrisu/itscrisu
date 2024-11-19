@@ -1,7 +1,7 @@
 # Hi, I'm Cristian 👋
 
 ## About Me
-Semi senior Software Developer with 3+ years of experience, currently exploring the intersection of technology and logistics. Passionate about building efficient systems and optimizing processes.
+Semi senior Software Developer with 3+ years of experience, currently working as a software developer while pursuing a degree in International Business. Passionate about building efficient systems and optimizing processes.
 
 ## Professional Experience
 - 🚀 Semisenior Software Developer at PPRO
@@ -26,9 +26,10 @@ Semi senior Software Developer with 3+ years of experience, currently exploring 
 
 ## Education
 - 🎓 B.S. in Computer Science - FaMAF (1 year)
+- 🎓 B.S. in International Business - UCASAL (in progress)
 
 ## Beyond Tech
-- 🏋️ CrossFit Enthusiast
+- 🏋️ CrossFit Fan
 - 💡 Continuous Learner
 - 🎨 Digital Art Enthusiast
 - 🤝 Team Building & Collaboration
