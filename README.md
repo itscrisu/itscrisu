@@ -25,8 +25,8 @@ Semi senior Software Developer with 3+ years of experience, currently working as
 - 🔮 Experimental Interfaces (learning)
 
 ## Education
-- 🎓 B.S. in Computer Science - FaMAF (1 year)
-- 🎓 B.S. in International Business - UCASAL (in progress)
+- 🎓 B.S. in Computer Science - FaMAF 
+- 🎓 B.S. in International Business - UCASAL 
 
 ## Beyond Tech
 - 🏋️ CrossFit Fan
