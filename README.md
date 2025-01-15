@@ -4,7 +4,7 @@
 Semi senior Software Developer with 3+ years of experience, currently working as a software developer while pursuing a degree in International Business. Passionate about building efficient systems and optimizing processes.
 
 ## Professional Experience
-- 🚀 Semisenior Software Developer at PPRO
+- 🚀 Semisenior Software Developer
 - 💻 Tech Stack: React, TypeScript, Terraform, AWS
 
 ## Technical Skills
