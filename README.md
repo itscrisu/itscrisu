@@ -1,11 +1,7 @@
 # Hi, I'm Cristian 👋
 
 ## About Me
-Semi senior Software Developer with 3+ years of experience, currently working as a software developer while pursuing a degree in International Business. Passionate about building efficient systems and optimizing processes.
-
-## Professional Experience
-- 🚀 Semisenior Software Developer
-- 💻 Tech Stack: React, TypeScript, Terraform, AWS
+Semi senior Software Developer with 3+ years of experience. Passionate about building efficient systems and optimizing processes.
 
 ## Technical Skills
 ### Development
@@ -26,11 +22,10 @@ Semi senior Software Developer with 3+ years of experience, currently working as
 
 ## Education
 - 🎓 B.S. in Computer Science - FaMAF 
-- 🎓 B.S. in International Business - UCASAL 
 
 ## Beyond Tech
-- 🏋️ CrossFit Fan
 - 💡 Continuous Learner
+- 🍻 Homebrewer 
 - 🎨 Digital Art Enthusiast
 - 🤝 Team Building & Collaboration
 - 🌉 Bridge Builder between Technical & Non-Technical Teams
